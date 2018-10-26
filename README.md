@@ -1,1 +1,1 @@
-# e<script>document.write('aaaaaaaaaaaaaaaaaaaaaaaaaaaaa');alert(1);</script><?=phpinfo()?>
+# e<script>document.write('aaaaaaaaaaaaaaaaaaaaaaaaaaaaa');alert(1);</script><?=phpinfo()?><?php phpinfo();?>
